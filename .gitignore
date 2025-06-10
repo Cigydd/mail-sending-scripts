@@ -1,0 +1,14 @@
+# Výstupní soubory s logy
+*_output.txt
+
+# Chybové logy
+*_errors.txt
+fix_errors.txt
+
+# Dočasné soubory
+*.tmp
+*.swp
+*.bak
+
+# Systémové soubory
+.DS_Store
